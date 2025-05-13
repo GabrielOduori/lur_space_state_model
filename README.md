@@ -1,5 +1,15 @@
 # 🚦 LUR Space State Fusion Fusion Pipeline
 
+---
+
+## 📘 About
+
+This project applies **computational statistics** and **probabilistic programming** to infer and forecast urban air pollution using existing open data. We combine satellite observations (TROPOMI), traffic volumes (SCATS), and land-use features (OSM) into a modular pipeline powered by **Bayesian state space models** and **Land Use Regression (LUR)**.
+
+Our focus is on scalable, uncertainty-aware modeling using **PyMC**, enabling high-resolution (100m × 100m) pollution estimates without dense sensor networks.
+
+---
+
 This repository provides a modular pipeline to estimate and forecast urban air pollution (e.g., NO₂) using data fusion techniques across multiple sources:
 
 * **TROPOMI satellite scenes** (via Copernicus/Sentinel-5P)
