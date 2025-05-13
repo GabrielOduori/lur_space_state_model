@@ -4,9 +4,11 @@
 
 ## 📘 About
 
-This project applies **computational statistics** and **probabilistic programming** to infer and forecast urban air pollution using existing open data. We combine satellite observations (TROPOMI), traffic volumes (SCATS), and land-use features (OSM) into a modular pipeline powered by **Bayesian state space models** and **Land Use Regression (LUR)**.
+This project applies **computational statistics** and **probabilistic programming** to estimate and forecast urban air pollution by embedding **Land Use Regression (LUR)** within **Bayesian State Space Models**. Using open data sources—**TROPOMI** satellite NO₂, **SCATS** traffic volumes, and **OpenStreetMap (OSM)** features—we model pollution as a function of land-use covariates and latent spatiotemporal dynamics.
 
-Our focus is on scalable, uncertainty-aware modeling using **PyMC**, enabling high-resolution (100m × 100m) pollution estimates without dense sensor networks.
+The framework supports high-resolution (100m × 100m) pollution mapping with full **uncertainty quantification**, implemented in modular, scalable Python code using **PyMC**.
+
+
 
 ---
 
