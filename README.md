@@ -115,5 +115,3 @@ For details, please refer to the [`docs/methodology.md`](docs/methodology.md) fi
 ## 📜 License
 
 MIT License — see the [LICENSE](LICENSE) file for details.
-
-# lur_spacestatemodel_integration
