@@ -65,8 +65,10 @@ tropomi-pollution-fusion/
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/tropomi-pollution-fusion.git
-cd tropomi-pollution-fusion
+
+git clone https://github.com/GabrielOduori/lur_space_state_model.git
+
+cd lur_space_state_model
 ```
 
 ### 2. Install dependencies
