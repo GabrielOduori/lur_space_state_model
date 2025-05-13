@@ -1,4 +1,4 @@
-# 🚦 LUR Space State Fusion Fusion Pipeline
+# 🚦 LUR Space State Fusion
 
 ---
 
